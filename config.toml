@@ -1,4 +1,4 @@
-baseurl = "https://hugo.staticman.net/"
+baseurl = "https://mjabuz.github.io/"
 languageCode = "en-us"
 title = "Hugo + Staticman"
 theme = "hugo-type-theme"
@@ -32,13 +32,13 @@ paginate = 10
 		# Insert your accout name and the icon will be shown in the right menu
 		rss = true
 		homepage = true
-		email = "hello@staticman.net"
+		email = ""
 		behance = ""
 		bitbucket  =""
 		dribbble = ""
 		facebook = ""
 		flickr = ""
-		github = "eduardoboucas/hugo-plus-staticman"
+		github = "mjabuz/mjabuz.github.io"
 		googleplus = ""
 		instagram = ""
 		linkedin = ""
